@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "getpic": "node getPic.js"
+    "getpic": "node getPic.js",
+    "processpic": "node processpic.js"
   },
   "author": "",
   "license": "ISC",
