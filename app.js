@@ -19,7 +19,7 @@ const doOCR = async (i) => {
     })
 }
 const exeApp = async () => {
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 1; i++) {
         await doOCR(i);
     }
     console.log(correctcount);
